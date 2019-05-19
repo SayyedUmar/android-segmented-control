@@ -15,7 +15,7 @@ The latest code has bug fixes, iOS 7's (and up) style segment control (which has
 Android-Segmented Library is pushed to [Maven Central](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22android-segmented%22), so you just need to add the following dependency to your `build.gradle`.
 
     dependencies {
-        compile 'info.hoang8f:android-segmented:1.0.6'
+        implementation 'SayyedUmar:android-segmented:1.0.6'
     }
 
 #### Manually
